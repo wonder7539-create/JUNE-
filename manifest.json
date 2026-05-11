@@ -1,0 +1,20 @@
+{
+  "name": "2026년 6월 위탁교육 과정 검색",
+  "short_name": "6월 교육과정",
+  "description": "2026년 6월 위탁교육 과정을 쉽고 빠르게 검색하는 앱",
+  "start_url": "/JUNE-/",
+  "scope": "/JUNE-/",
+  "display": "standalone",
+  "background_color": "#F3F7FF",
+  "theme_color": "#1E4ED8",
+  "orientation": "landscape-primary",
+  "lang": "ko-KR",
+  "icons": [
+    {
+      "src": "./6월 교육과정 앱 아이콘.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
